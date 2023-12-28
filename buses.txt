@@ -1,0 +1,15 @@
+10DT, Hammamet, 10:00
+20DT, Monastir, 13:00
+15DT, Sousse, 10:45
+17.5DT, El Kef, 11:00
+6DT, Tunis, 10:00
+12DT, Bizerte, 8:00
+25DT, Sfax, 6:45
+3.5DT, Manouba, 15:25
+10DT, Ben Arous, 19:00
+2DT, Zaghouen, 15:15
+29DT, Gabes, 19:15
+34DT, Kasserine, 12:00
+35DT, Gbelli, 4:30
+38DT, Tataouine, 9:30
+
